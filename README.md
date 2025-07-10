@@ -6,6 +6,8 @@ Este proyecto se usó Tailwind CSS: [https://tailwindcss.com](https://tailwindcs
 
 Si quieres seguir mi trabajo, puedes visitar mi perfil de **GitHub**: [https://github.com/italofantone](https://github.com/italofantone)
 
+## Models
+
 ```
 // 'model' => 'gpt-3.5-turbo',
 // 'model' => 'gpt-4',
