@@ -16,8 +16,8 @@ Si quieres seguir mi trabajo, puedes visitar mi perfil de **GitHub**: [https://g
 
 ## Cursos en Platzi
 
-👉 **Fundamentos de PHP**: (https://platzi.com/cursos/fundamentos-php/)
+👉 **Fundamentos de PHP**: https://platzi.com/cursos/fundamentos-php/
 
-👉 **Laravel**: (https://platzi.com/cursos/desarrollo-laravel/)
+👉 **Laravel**: https://platzi.com/cursos/desarrollo-laravel/
 
-👉 **PHP Avanzado**: (https://platzi.com/cursos/php-avanzado-pro/)
+👉 **PHP Avanzado**: https://platzi.com/cursos/php-avanzado-pro/
